@@ -1,7 +1,3 @@
-# Things-And-Stuff
-
-Perhaps random seeming.htm
-
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
@@ -2060,7 +2056,7 @@ usage<o:p></o:p></span></h1>
 
 <h2><span lang=EN-US style='mso-ansi-language:EN-US'>Shortcuts<o:p></o:p></span></h2>
 
-<h3><span lang=EN-US style='mso-ansi-language:EN-US'>Can�t live without <span
+<h3><span lang=EN-US style='mso-ansi-language:EN-US'>Can't live without <span
 class=GramE>it</span><o:p></o:p></span></h3>
 
 <p class=MsoListParagraphCxSpFirst style='text-indent:-18.0pt;mso-list:l8 level1 lfo2'><![if !supportLists]><span
