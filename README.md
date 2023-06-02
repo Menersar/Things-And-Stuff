@@ -32,8 +32,7 @@ using different applications and programs and computers in general).
 -   [Win] + V
 
     -   Open Visual Clipboard (with history!).
-
-        Less work for my [Alt] + [Tab] keys – I’m sure they are thankful!
+        > Less work for my [Alt] + [Tab] keys – I’m sure they are thankful!
 
 -   [Win] + [.]
 
@@ -82,8 +81,7 @@ using different applications and programs and computers in general).
 
 -   [Right Mouse Click] on the Windows Taskbar
 
-    -   Open a context menu for running the Task Manager (and Taskbar settings)
-        quickly.
+    -   Open a context menu for running the Task Manager (and Taskbar settings) quickly.
 
 ### Good to know
 
@@ -93,7 +91,7 @@ using different applications and programs and computers in general).
 
 -   [Windows Logo Key] + [Space Bar]
 
-    -   Toggle keyboard input language  
+    -   Toggle keyboard input language <br/>
         (If different input languages were set up).
 
 ### Nice but I keep forgetting it (and should learn it for future me)
@@ -131,19 +129,19 @@ using different applications and programs and computers in general).
 
 ## Cheats
 
--   In the cheat menu you do not have to type out the zeros in front of items
-    you want to add.
+-   In the cheat menu you do not have to type out the zeros in front of items you want to add.
 
-    -   Source: Many websites related to Skyrim / Oblivion cheats state this.
+    -   Source: <br/>
+        Many websites related to Skyrim / Oblivion cheats state this.
 
-        -   Example:   
+        -   Example: <br/>
             [https://www.pcgamer.com/skyrim-console-commands-let-you-cheat-and-do-other-stuff/\#:\~:text=player.additem%20%5BItem,adds%201000%20gold.](https://www.pcgamer.com/skyrim-console-commands-let-you-cheat-and-do-other-stuff/#:~:text=player.additem%20%5BItem,adds%201000%20gold.)
 
-            -   Statement:  
-                Add 1000 Gold to player inventory: `player.additem 0000000f 1000`
+            -   Statement: <br/>
+            Add 1000 Gold to player inventory: `player.additem 0000000f 1000`
 
-    -   Example:   
-        Cheat code to add Gold to the player’s inventory: `player.addItem f AMOUNT`
+    -   Example: <br/>
+        Cheat code to add Gold to the player’s inventory: `player.addItem f AMOUNT` <br/>
         (instead of AMOUNT type a number / the amount of the item you want to add)
 
 # Visual Studio Code
@@ -156,7 +154,7 @@ using different applications and programs and computers in general).
 
     -   [Ctrl] + [V] after this:
 
-        -   Paste the just copied line after the line you just copied.  
+        -   Paste the just copied line after the line you just copied. <br/>
             (Even between the current line and a following one!)
 
 # Browser
