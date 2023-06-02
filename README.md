@@ -42,14 +42,10 @@ I might also waffle and shit chat a bit from line to line, sorry for that. 💀
     -   Open menu with tabs for Emoji, GIF, Kaomoji, Symbols and Clipboard
         history.
 
-        "Finally I can type my beloved [en
-        dash](https://en.wikipedia.org/wiki/Dash#En_dash), correct [German
-        tradition quotation
-        marks](https://en.wikipedia.org/wiki/Quotation_mark#:~:text=br%C4%8D%E2%80%99q%E2%80%99alebi%2C%20claws)-,German,%E2%80%9E%E2%80%A6%E2%80%9C,-%E2%80%9A%E2%80%A6%E2%80%98),
-        [ellipsis](https://en.wikipedia.org/wiki/Ellipsis) etc. relatively easy
-        without having to Google / Wikipedia Search and copy-past it (and dying
-        internally) every time needing them (LIKE FOR EXPRESSING SARCASM),
-        AHHHHH, thank you Microsoft for that." :)
+>Finally, I can type my beloved 
+<a href="https://en.wikipedia.org/wiki/Dash#En_dash">en dash</a>, 
+>correct [German tradition quotation marks](https://en.wikipedia.org/wiki/Quotation_mark#:~:text=German-,%E2%80%9E%E2%80%A6%E2%80%9C,-%E2%80%9A%E2%80%A6%E2%80%98), [ellipsis](https://en.wikipedia.org/wiki/Ellipsis) etc. relatively easy without having to Google / Wikipedia Search and copy-past it (and dying internally) every time needing them (LIKE FOR EXPRESSING SARCASM).
+AHHHHH, thank you Microsoft for that. :)"
 
 ### Extremely handy
 
@@ -78,7 +74,7 @@ I might also waffle and shit chat a bit from line to line, sorry for that. 💀
 
     -   Magic Spell to (most often) fix hung up or stuttering applications.
 
-        Additional to be able to switch to the Desktop in one click   
+        > Additional to be able to switch to the Desktop in one click   
         (admittedly I don’t seem to use the function for this purpose often,
         although it probably was mad with that intention in mind), but for me it
         often comes in handy when Windows or some application hangs up or
